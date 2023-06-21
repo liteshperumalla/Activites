@@ -1,1 +1,2 @@
-# Solutions for Day1 Level 1
+# Day 1 Language Basics, Operators and Control Flow
+# Day 2 Pointers
